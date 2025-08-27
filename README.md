@@ -1,5 +1,8 @@
 # Кластерный анализ данных об аренде квартир в Иркутске
 
+[![Python](https://img.shields.io/badge/Python-3.11%2B-blue)](https://python.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org)
+
 Проект посвящен изучению и применению метода кластерного анализа K-средних (K-Means) для сегментации рынка аренды квартир в городе Иркутске на основе данных о стоимости и площади.
 
 ## Цели и задачи
